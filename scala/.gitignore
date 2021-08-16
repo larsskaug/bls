@@ -1,0 +1,22 @@
+# Ignore Play! working directory #
+bin/
+/db
+.bloop
+.bsp
+.g8
+.metals
+.vscode
+.eclipse
+/lib/
+/logs/
+/modules
+/project/project
+/project/.bloop
+/project/target
+/target
+tmp/
+test-result
+server.pid
+*.eml
+/dist/
+.cache
