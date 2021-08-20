@@ -22,3 +22,4 @@ server.pid
 .cache
 .metals/
 .scalafmt.conf
+bls
